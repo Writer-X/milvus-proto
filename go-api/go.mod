@@ -1,4 +1,5 @@
-module github.com/milvus-io/milvus-proto/go-api/v2
+// module github.com/milvus-io/milvus-proto/go-api/v2
+module github.com/Writer-X/milvus-proto/go-api/v2
 
 go 1.18
 
